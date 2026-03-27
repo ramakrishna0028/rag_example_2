@@ -1,0 +1,8 @@
+pypdf
+langchain-text-splitters
+sentence_transformers
+langchain-community
+faiss-cpu
+langchain
+langchain-ollama
+langchain_huggingface
